@@ -1,2 +1,2 @@
-# just-dice.github.io
-Just Dice
+# trx-dev386.github.io
+Dice
